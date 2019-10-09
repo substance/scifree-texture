@@ -1,3 +1,3 @@
 # SciFree Texture
 
-Mainly just a plain Texture bundle with some minor customisations.
+Just a plain Texture bundle with some example customisations.
